@@ -16,7 +16,7 @@ Tired of hacking all day long, battling network shortages, hackers might have ha
 This is a one person player game designed to elaborate on the journey of the hackathon in the eyes of the the hacker. the game starts off with some challenges, which need to be overcome once the hacking starts. there are a few collectibles on tthe way, that is:
 <ol>
  <li>
-  ![image](https://github.com/TithiB-del/H4BS3/assets/76741863/194040bc-0ec0-47af-9c30-959d9b38f101)
+  
 <br>
   This represents the love that is generally shown for an impressive project, & for exceptional valor shown in the course of the hackathon.<br>
   sometimes, a little support can work wonders, who knows?
