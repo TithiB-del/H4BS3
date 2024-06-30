@@ -12,4 +12,5 @@ Tired of hacking all day long, battling network shortages, hackers might have ha
 - Device specifications wasn't enough to support all the ideas we had in our plans
 - Internet outages limited working proficiency
 
+<h6>Usage of this game:</h6>
  
